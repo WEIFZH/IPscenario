@@ -5,7 +5,7 @@ This repo provides a dataset for IP Usage Scenarios prediction and codes of benc
 
 > Identifying IP Usage Scenarios: Problem, Data, and Benchmarks
 >
-> [Weifeng Zhang](https://orcid.org/0000-0002-3109-0956), [Fan Zhou](https://dblp.org/pid/63/3122-2.html), [Kunpeng Zhang](http://www.terpconnect.umd.edu/~kpzhang/), Zhiyuan Wang and Yong Wang.
+> [Weifeng Zhang](https://orcid.org/0000-0002-3109-0956), [Fan Zhou](https://dblp.org/pid/63/3122-2.html), [Kunpeng Zhang](http://www.terpconnect.umd.edu/~kpzhang/), [Zhiyuan Wang](https://orcid.org/0000-0001-7167-9055) and Yong Wang.
 >
 > Submitted for review  
 
