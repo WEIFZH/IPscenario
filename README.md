@@ -12,7 +12,7 @@ This repo provides a dataset for IP Usage Scenarios prediction and codes of benc
 
 ## Dataset
 
-we have compressed the datasets named as **IP_scenarios.zip** , you could refer to **documentation.xlsx** for more details.
+we have compressed the datasets named as **dataset.zip** , you could refer to **documentation.xlsx** for more details. For running, you should unzip the file to "./data".
 
 
 ## Environmental Settings
@@ -42,7 +42,15 @@ then, you will get the beijing_cate2id.
 
 For DT and SVM, you could run the IP_ML.py,
 for D&CN and AutoInt, run the IP_DL.py,
-and for NODE, please run the Node.py
+and for NODE, please run with the command line:
+
+```shell
+cd node_scenario
+python node_scenario.py --dataset "beijing"
+# the dataset parameter choice is ["beijing", "shanghai", "sichuan", "illinois"]
+```
+
+
 
 ## Cite
 
