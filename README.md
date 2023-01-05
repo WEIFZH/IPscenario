@@ -57,12 +57,15 @@ python node_scenario.py --dataset "beijing"
 If you find our paper & code are useful for your research, please consider citing us:
 
 ```bibtex
-@inproceedings{Zhang2021IPscenario, 
-  author = {Weifeng Zhang, Fan zhou, Kunpeng Zhang, Zhiyuan Wang and Yong Wang}, 
-  title = {Identifying IP Usage Scenarios: Problem, Data, and Benchmarks}, 
-  booktitle = {Submitted for review},
-  year = {2021},
-}
+@ARTICLE{9829369,
+  author={Zhou, Fan and Zhang, Weifeng and Wang, Yong and Zhong, Ting and Trajcevski, Goce and Khokhar, Ashfaq},
+  journal={IEEE Network}, 
+  title={Identifying IP Usage Scenarios: Problems, Data, and Benchmarks}, 
+  year={2022},
+  volume={36},
+  number={3},
+  pages={152-158},
+  doi={10.1109/MNET.012.2100293}}
 ```
 
 
